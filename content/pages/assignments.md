@@ -10,16 +10,120 @@ Hughes, and Cresswell. _A New Introduction to Modal Logic_. Routledge, 1996. ISB
 Homework
 --------
 
-| ASSIGNMENTS | ASSIGNED | DUE |
-| --- | --- | --- |
-| [Homework 1 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework1) | Session 3 | Session 4 |
-| [Homework 2 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework2) | Session 5 | Session 6 |
-| [Homework 3 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework3) | Session 7 | Session 8 |
-| [Homework 4 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework4) | Session 9 | Session 10 |
-| [Homework 5 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework5) | Session 15 | Session 16 |
-| [Homework 6 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework6) | Session 17 | Session 19 |
-| [Homework 7 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework7) | Session 19 | Session 21 |
-| [Homework 8 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework8) | Session 22 | Session 23 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNED
+{{< thclose >}}
+{{< thopen >}}
+DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 1 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework1)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 2 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework2)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 5
+{{< tdclose >}}
+{{< tdopen >}}
+Session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 3 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework3)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 7
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 4 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework4)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 9
+{{< tdclose >}}
+{{< tdopen >}}
+Session 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 5 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework5)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 15
+{{< tdclose >}}
+{{< tdopen >}}
+Session 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 6 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework6)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 17
+{{< tdclose >}}
+{{< tdopen >}}
+Session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 7 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework7)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 19
+{{< tdclose >}}
+{{< tdopen >}}
+Session 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework 8 (PDF)]({{< baseurl >}}/resources/mit24_244s15_homework8)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 22
+{{< tdclose >}}
+{{< tdopen >}}
+Session 23
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Modal Logic Paper (5–7 Pages)
 -----------------------------

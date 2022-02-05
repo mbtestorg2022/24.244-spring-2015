@@ -22,29 +22,244 @@ Prerequisites
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 40% |
-| Modal Logic Paper | 20% |
-| Final Exam | 30% |
-| Participation, etc. | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Modal Logic Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Basic Propositional Notions | &nbsp; |
-| 2–3 | Basic Modal Notions | &nbsp; |
-| 4–5 | System K | Homework 1 due Session 4 |
-| 6–7 | Extensions of K | Homework 2 due Session 6 |
-| 8–9 | Testing for Validity | Homework 3 due Session 8 |
-| 10–11 | Modal Metalogic | Homework 4 due Session 10 |
-| 12–13 | Glimpses Beyond | &nbsp; |
-| 14–15 | Modal Predicate Logic | &nbsp; |
-| 16–17 | Modal Predicate Metalogic | Homework 5 due Session 16 |
-| 18–19 | Shifting Domains | Homework 6 due Session 19 |
-| 20–21 | Existence and Identity | Homework 7 due Session 21 |
-| 22–23 | Descriptions and Rigidity | Modal Logic Paper & Homework 8 due Session 23 |
-| 24–25 | Intensional Objects | &nbsp; |
-| 26–27 | Special Topics | Take Home Final due two days after Session 27
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Propositional Notions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Modal Notions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+{{< tdopen >}}
+System K
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Extensions of K
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due Session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–9
+{{< tdclose >}}
+{{< tdopen >}}
+Testing for Validity
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Modal Metalogic
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due Session 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Glimpses Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+Modal Predicate Logic
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Modal Predicate Metalogic
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due Session 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–19
+{{< tdclose >}}
+{{< tdopen >}}
+Shifting Domains
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due Session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20–21
+{{< tdclose >}}
+{{< tdopen >}}
+Existence and Identity
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due Session 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22–23
+{{< tdclose >}}
+{{< tdopen >}}
+Descriptions and Rigidity
+{{< tdclose >}}
+{{< tdopen >}}
+Modal Logic Paper & Homework 8 due Session 23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24–25
+{{< tdclose >}}
+{{< tdopen >}}
+Intensional Objects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26–27
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topics
+{{< tdclose >}}
+{{< tdopen >}}
+Take Home Final due two days after Session 27
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
